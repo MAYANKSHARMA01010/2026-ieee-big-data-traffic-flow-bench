@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench/data
+kaggle_public
