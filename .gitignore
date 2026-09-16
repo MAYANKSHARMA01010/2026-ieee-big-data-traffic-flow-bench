@@ -223,3 +223,7 @@ kaggle_public
 # Official benchmark toolkit
 trafficflowbench-public/
 
+# Generated dataset submissions
+datasets/*.csv
+
+
