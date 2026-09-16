@@ -225,5 +225,7 @@ trafficflowbench-public/
 
 # Generated dataset submissions
 datasets/*.csv
+submission*.csv
+
 
 
