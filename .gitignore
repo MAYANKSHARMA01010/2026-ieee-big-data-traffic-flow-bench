@@ -219,3 +219,7 @@ __marimo__/
 
 # Dataset https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench/data
 kaggle_public
+
+# Official benchmark toolkit
+trafficflowbench-public/
+
