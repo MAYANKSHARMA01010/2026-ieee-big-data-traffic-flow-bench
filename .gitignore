@@ -227,5 +227,6 @@ trafficflowbench-public/
 datasets/*.csv
 submission*.csv
 
-
-
+# Scratch data files
+scratch/*.csv
+scratch/*.zip
